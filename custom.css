@@ -207,16 +207,11 @@ fieldset {
     background: #e44c41;
 }
 
-.fa-phone:before {
-    font-size: 20px;
-    color: #75c100;
-}
-
 .fa-map-marker:before {
    font-size: 20px;
     color: #ea4e4e;
 }
-.fa-user:before {
+#contact-us .fa-user:before {
    font-size: 20px;
     color: #dfdfdf;
 }

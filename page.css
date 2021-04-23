@@ -24,9 +24,18 @@ div>i{
 }
 .jumbotron  {
     /* background-color: #f4511e !important; */
-    background-color: rgba(244,81,30,0.6) !important;
+    background-color: rgba(244,81,30,0.4) !important;
     /* color: #ffffff !important; */
-    color: darkslategray !important;
+    color: white !important;
     
+  }
 
+  .site-title{
+      font-size:58px !important;
+      text-align: center;
+      padding:10px 0px;
+      font-weight: 900;
+      color: rgb(244,81,30);
+      border: 2px solid white;
+      border-radius:10px;
   }

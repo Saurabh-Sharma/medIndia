@@ -31,11 +31,12 @@ div>i{
   }
 
   .site-title{
-      font-size:58px !important;
+      font-size:4vw !important;
       text-align: center;
       padding:10px 0px;
       font-weight: 900;
       color: rgb(244,81,30);
       border: 2px solid white;
       border-radius:10px;
+      
   }

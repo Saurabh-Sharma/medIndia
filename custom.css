@@ -139,3 +139,97 @@ fieldset {
 :-ms-input-placeholder {
     color: #888
 }
+
+.footer-area{
+    background-image: url('https://macinteract.com/wp-content/uploads/2016/02/footer-background.jpg') ;
+    overflow: hidden;
+    padding-top: 55px;
+    padding-bottom: 105px;
+        
+       
+}
+.footer-area .p-header h2{
+    color:#fff;
+    padding-bottom: 30px;
+}
+
+.footer-left h2{
+ color: #fff;
+    font-size: 25px;
+    font-weight: 400;
+    padding-bottom: 10px;
+    margin-top: 15px;
+    font-family: 'Roboto', sans-serif;
+         
+}
+.footer-left h5{
+    color:#fff2f2;
+    font-size: 20px;
+    font-weight: 400;
+     padding-bottom:10px;
+}
+
+
+.footer-left adress p{
+   color:#fff2f2;
+    font-size: 15px;
+    font-weight: 300;
+     padding-bottom:10px;
+    font-style: italic;
+}
+
+.footer-left ul{
+    overflow: hidden;
+    padding-top: 20px;
+}
+.footer-left ul li{
+    float: left;
+}
+.footer-left ul li a{
+    width: 37px;
+    height: 37px;
+    border-radius: 50%;
+    text-align: center;
+    display: block;
+    margin-right: 10px;
+    color: #fff;
+    line-height: 35px;
+    font-size: 20px;
+    
+}
+.footer-left ul li:first-child a{
+    background: #3b5997;
+}
+.footer-left ul li:nth-child(2) a{
+    background: #40c2f4;
+}
+.footer-left ul li:last-child  a{
+    background: #e44c41;
+}
+
+.fa-phone:before {
+    font-size: 20px;
+    color: #75c100;
+}
+
+.fa-map-marker:before {
+   font-size: 20px;
+    color: #ea4e4e;
+}
+.fa-user:before {
+   font-size: 20px;
+    color: #dfdfdf;
+}
+
+.copy a{
+ color: #e9eacf;
+}
+
+.p-header h2{
+    color:#4e525d;
+    font-size: 42px;
+    text-align: center;
+    padding-bottom: 62px;
+    font-weight: 400;
+    
+}

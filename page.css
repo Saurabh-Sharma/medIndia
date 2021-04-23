@@ -1,0 +1,32 @@
+.navbar { 
+    /* background-color: #484848; */
+background-color: #f4511e; }
+.navbar .navbar-nav .nav-link { color: #fff; }
+.navbar .navbar-nav .nav-link:hover { color: #f4511e !important;
+    background-color: #fff !important; }
+.navbar .navbar-nav .active > .nav-link { color: #f4511e !important;
+    background-color: #fff !important; }
+div>i{
+    font-size: 45px !important;
+    color: #f4511e;
+}
+
+.carousel{
+    padding:20px;
+}
+
+.carousel-bg{
+    background-image: url("carousel-bg.jpg") !important;
+    background-size: contain;
+}
+.carousel-mask{
+    background-color: rgba(0, 0, 0, 0.3) !important;
+}
+.jumbotron  {
+    /* background-color: #f4511e !important; */
+    background-color: rgba(244,81,30,0.6) !important;
+    /* color: #ffffff !important; */
+    color: darkslategray !important;
+    
+
+  }

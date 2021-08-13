@@ -7,7 +7,7 @@
 }
 
 .register-self{
-    background-color: rgba(245, 81, 31, 0.7);
+    background-color:rgba(52, 231, 228, 0.7);
     color:white;
     padding:10px;
 }
@@ -100,7 +100,7 @@ fieldset {
     cursor: pointer;
     width: 100%;
     border: none;
-    background: #f0715f;
+    background: #00cec9;
     color: #FFF;
     margin: 0 0 5px;
     padding: 10px;
@@ -108,7 +108,7 @@ fieldset {
 }
 
 #contactus button[type="submit"]:hover {
-    background: #f07150;
+    background: #00cec9;
     -webkit-transition: background 0.3s ease-in-out;
     -moz-transition: background 0.3s ease-in-out;
     transition: background-color 0.3s ease-in-out
@@ -204,12 +204,12 @@ fieldset {
     background: #40c2f4;
 }
 .footer-left ul li:last-child  a{
-    background: #e44c41;
+    background: #00cec9;
 }
 
 .fa-map-marker:before {
    font-size: 20px;
-    color: #ea4e4e;
+    color: #00cec9;
 }
 #contact-us .fa-user:before {
    font-size: 20px;
@@ -227,4 +227,13 @@ fieldset {
     padding-bottom: 62px;
     font-weight: 400;
     
+}
+
+.service-card {
+    padding:10px;
+}
+
+.service-card:hover {
+    background-color: #898b94;
+    color:white;
 }
